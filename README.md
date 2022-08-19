@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bagtyyar from fsociety</h1>
 <h3 align="center">I am desktop app developer, backend developer and network engineer.</h3>
 
-- 🌱 I’m currently learning: **Docker, Kubernetes**
+- 🌱 I’m currently learning: **Flask, Web api**
 
 - 💬 Ask me about: **nothing**
 
