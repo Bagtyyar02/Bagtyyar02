@@ -20,7 +20,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martyhacker&show_icons=true&locale=en&layout=compact" alt="martyhacker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bagtyyar02&show_icons=true&locale=en&layout=compact" alt="Bagtyyar02" /></p>
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Bagtyyar02&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -33,3 +33,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+---
+![](https://komarev.com/ghpvc/?username=Bagtyyar02&label=Visitors+Count&color=brightgreen)
